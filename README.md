@@ -52,8 +52,8 @@ The delivery of your code must be in ***ZIP*** format, with your whole source co
 
 The Dockerfile needs to be executed with the following commands and, at the end of the execution, it needs to print the formated output.
 
-* docker build -t zuldigital/engenieer-exam .
-* docker run --rm zuldigital/engenieer-exam
+* docker build -t zuldigital/engineer-exam .
+* docker run --rm zuldigital/engineer-exam
 
 The ZIP file must be named as follow: ***yourname-YYYYMMDD.zip*** and it needs to be attached at your selective process after you finish it.
 

@@ -51,8 +51,8 @@ A entrega do seu código deve ser em formato ***ZIP***, contendo todo o source q
 
 O Dockerfile deve estar pronto para ser executado com os comandos abaixo e ao final da execução deve apresentar o output esperado.
 
-* docker build -t zuldigital/engenieer-exam .
-* docker run --rm zuldigital/engenieer-exam
+* docker build -t zuldigital/engineer-exam .
+* docker run --rm zuldigital/engineer-exam
 
 O arquivo ZIP deve seguir a nomenclatura: ***seunome-YYYYMMDD.zip*** e deve ser enviado em anexo a mensagem do processo seletivo assim que estiver pronto.
 
