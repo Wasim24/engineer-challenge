@@ -19,7 +19,7 @@ The API has two methods. One to make the authentication and get the JWT token wi
 |Base URL  | https://n8e480hh63o547stou3ycz5lwz0958.herokuapp.com/ |
 | ----------- | ------------------------------------------------------------------------------------ |
 |**Version**  | **1.1** |
-| | [![Run in Postman](https://run.pstmn.io/button.svg)](https://www.getpostman.com/collections/b7dc95ef39e431d9518a)|
+| | [![Run in Postman](https://run.pstmn.io/button.svg)](https://www.getpostman.com/collections/47875da49b734fddadcd)|
 
 #### Auth POST /{version}/auth
 
